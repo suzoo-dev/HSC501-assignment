@@ -1,0 +1,113 @@
+,event_uuid,harry_kane_x_location,defender_x_location,player,timestamp,minute,type,possession_team
+0,aaa1c5a8-3e98-4e9f-9717-ae50526d8ee0,89.2,60.45,Harry Kane,00:00:07.890,0,Ball Receipt*,England
+1,8762ae2f-13ba-4358-b0b7-bb40bbff171c,54.8,97.20,Harry Kane,00:01:19.106,1,Ball Receipt*,England
+2,3c1e8679-8b04-45c7-90d6-3365ea0f68a6,77.6,80.84,Harry Kane,00:01:22.798,1,Pressure,Slovenia
+3,99405a21-5f66-4fcd-9786-3756aa6cbaf3,108.3,96.07,Harry Kane,00:01:25.890,1,Pressure,Slovenia
+4,fd1b43c9-ebda-43d2-8d3b-313205d1bbe2,98.6,49.51,Harry Kane,00:01:35.205,1,Ball Receipt*,Slovenia
+5,518fbeb5-6c3c-4a53-aa81-a1875b97dcc1,84.2,65.34,Harry Kane,00:02:57.641,2,Ball Receipt*,England
+6,600e0f41-5b2f-4d94-8346-ba8228600fe8,86.0,65.34,Harry Kane,00:02:57.641,2,Duel,England
+7,47adb48f-9519-4f25-9d9a-184570b45f6e,54.6,68.06,Harry Kane,00:05:16.156,5,Ball Receipt*,England
+8,005db11a-5ee4-4631-a8d9-6bfd41280e31,54.6,68.06,Harry Kane,00:05:16.156,5,Carry,England
+9,5e34d0fe-dd9d-4415-8237-1166587275c3,54.6,68.06,Harry Kane,00:05:16.196,5,Miscontrol,England
+10,3cc6cffb-b2f2-4342-a627-615f1ab10bb4,75.3,101.32,Harry Kane,00:07:10.722,7,Pass,England
+11,821659a4-1b3c-4cbe-b1d7-5dbab400c0d5,104.1,116.48,Harry Kane,00:07:15.733,7,Pressure,Slovenia
+12,e6b7ef74-831e-46dd-ab59-024f22a76c7e,98.6,106.26,Harry Kane,00:08:25.560,8,Ball Receipt*,England
+13,01c31e6d-f929-4ee3-999c-ba1bc714dc7c,98.6,106.26,Harry Kane,00:08:25.560,8,Carry,England
+14,67ee7f36-53d7-4490-84b6-b96b9b1adde1,97.0,103.88,Harry Kane,00:08:27.053,8,Pass,England
+15,ef6044af-e0f6-4282-ada9-abd7816e2e7a,52.4,72.72,Harry Kane,00:09:29.786,9,Ball Recovery,Slovenia
+16,eb7a7240-63e0-4adc-9771-0c6725b121b0,52.4,72.72,Harry Kane,00:09:29.786,9,Carry,Slovenia
+17,177acdb5-e363-44b8-aff7-88dc20d1d8d3,47.4,73.63,Harry Kane,00:09:33.969,9,Pass,Slovenia
+18,bf540b17-be6e-4591-90ae-c7d78ffced85,31.1,103.60,Harry Kane,00:10:52.548,10,Ball Receipt*,Slovenia
+19,14849d47-39d8-46ab-80cf-1e31e8c681d8,42.4,56.93,Harry Kane,00:10:57.407,10,Pressure,Slovenia
+20,36b58d82-e6bc-42bd-9a61-1cced53392ca,77.3,89.59,Harry Kane,00:11:48.607,11,Ball Receipt*,England
+21,3deaea25-6180-4430-be4e-ed72106384d1,77.3,89.59,Harry Kane,00:11:48.607,11,Carry,England
+22,d4577190-445b-4d00-911b-36303782a064,73.4,89.26,Harry Kane,00:11:49.647,11,Pass,England
+23,5819120f-649b-4d12-a81e-253920d677e4,65.6,74.60,Harry Kane,00:18:15.418,18,Pressure,England
+24,1c806375-74d6-4d3f-942d-3e7db2181927,64.0,97.93,Harry Kane,00:18:16.032,18,Ball Receipt*,England
+25,8af151eb-ce42-4b71-afa9-1762229fc690,77.4,54.10,Harry Kane,00:21:37.050,21,Ball Receipt*,England
+26,6dac89e3-f04d-4da1-887a-6b5e3cda5cd9,77.4,54.10,Harry Kane,00:21:37.050,21,Duel,England
+27,b3e02ee2-f832-4acf-9242-0eac4ee32ac0,63.7,83.86,Harry Kane,00:25:14.240,25,Ball Receipt*,England
+28,4a0dd2a6-bcd6-4cd0-9415-e130e5553749,63.7,83.86,Harry Kane,00:25:14.240,25,Carry,England
+29,9dba01f9-91ef-4ecf-8db9-fbf1d6988d27,58.2,88.32,Harry Kane,00:25:16.267,25,Pass,England
+30,35da7ab9-4104-42ca-9d4d-7a02e86e25ed,55.8,85.16,Harry Kane,00:25:20.651,25,Ball Receipt*,England
+31,cbfba5b7-3e37-486a-a0de-75bae439c9e8,55.8,85.16,Harry Kane,00:25:20.651,25,Carry,England
+32,17cc7e93-0e4f-4344-b7c5-9083d2a9881c,61.8,86.26,Harry Kane,00:25:21.996,25,Pass,England
+33,f576b650-74c8-4ce0-9349-6ea46d8b277c,105.7,106.51,Harry Kane,00:27:44.467,27,Ball Receipt*,England
+34,72a19252-6c2a-4a2e-8a8f-f2c1297304fd,105.7,106.51,Harry Kane,00:27:44.467,27,Carry,England
+35,5fd566a1-523a-40ea-b8e3-6a4e948cf159,108.5,109.70,Harry Kane,00:27:45.523,27,Miscontrol,England
+36,b7ed02d9-6be9-488e-b67a-6eb4e1e55b3d,102.6,105.15,Harry Kane,00:29:08.520,29,Ball Receipt*,England
+37,e62675be-6a37-4c07-814f-7cac06fa343e,102.6,105.15,Harry Kane,00:29:08.520,29,Carry,England
+38,d410062f-e109-4055-8f60-1d47c3d2ae49,117.0,41.32,Harry Kane,00:29:18.716,29,Ball Receipt*,England
+39,96e3640d-ebec-4055-bbef-0c933423aa03,107.8,115.22,Harry Kane,00:30:13.509,30,Ball Receipt*,England
+40,8fcf69c6-f56a-420b-a820-2d8f6eb8f737,107.8,115.22,Harry Kane,00:30:13.539,30,Shot,England
+41,15e7d681-d7ec-47c2-a611-50e81f09209c,98.0,106.15,Harry Kane,00:30:23.812,30,Ball Receipt*,England
+42,7f3e6ebb-3a0c-4483-a6a0-9db7e7dce5ec,98.0,106.15,Harry Kane,00:30:23.812,30,Carry,England
+43,ec1cad31-5a29-4ab2-a3fb-cbd55ce0a125,98.9,108.15,Harry Kane,00:30:24.828,30,Shot,England
+44,e9d92a1c-b209-467b-9680-21e4df79d07b,75.7,82.26,Harry Kane,00:31:44.354,31,Ball Receipt*,England
+45,1c09d917-fe9e-4daf-9645-58f56e40ef95,75.7,82.26,Harry Kane,00:31:44.354,31,Carry,England
+46,ce4b6cc1-6da4-4279-b953-094ef0c3604c,75.0,82.35,Harry Kane,00:31:44.577,31,Pass,England
+47,97fb0429-eeca-4efa-b9f5-e5ca7a848946,78.4,93.70,Harry Kane,00:32:21.510,32,Ball Receipt*,England
+48,466197f6-ff63-4401-94e5-aa105d768638,78.4,93.70,Harry Kane,00:32:21.510,32,Carry,England
+49,1fc40c21-71f8-4c42-a673-f5c0cc95d1c3,79.4,94.70,Harry Kane,00:32:21.550,32,Pass,England
+50,22b88c40-c51b-442f-aa90-9d20b1aabbf4,65.6,88.54,Harry Kane,00:32:25.748,32,Ball Receipt*,England
+51,9c5b79e5-5ea8-4416-a622-73a7a599736b,65.6,88.54,Harry Kane,00:32:25.748,32,Carry,England
+52,687b1f6d-ef9e-4562-bf26-d54d7a176b12,64.8,87.80,Harry Kane,00:32:25.908,32,Pass,England
+53,1348e044-4c8f-47c4-aba4-8c5e6ec77b8d,41.1,57.44,Harry Kane,00:36:27.857,36,Pressure,Slovenia
+54,4793d834-a7a1-4c01-9b40-c2e8ffcd75af,24.6,46.86,Harry Kane,00:37:51.089,37,Ball Receipt*,England
+55,24b95030-aa95-432f-9c63-8f4d14abfb72,24.6,46.86,Harry Kane,00:37:51.089,37,Carry,England
+56,f70d2fd5-5fba-4001-9286-7a8c29e38a46,24.9,109.54,Harry Kane,00:37:51.594,37,Foul Won,England
+57,88dfa3d9-00b0-4c56-be38-31d1a9c977d2,115.7,114.76,Harry Kane,00:39:57.892,39,Ball Receipt*,England
+58,49f1ae73-75ac-4f79-b1d0-44e59b80d046,115.7,114.43,Harry Kane,00:39:57.932,39,Shot,England
+59,2902dadc-6ff0-461b-a480-bf7b56166eaf,114.8,117.71,Harry Kane,00:40:33.784,40,Pressure,Slovenia
+60,7d787dcc-7845-49ba-b201-fc7d458f961f,76.1,90.17,Harry Kane,00:42:03.377,42,Ball Receipt*,England
+61,10643b7d-65da-4086-8742-0d7e2c305009,77.0,91.07,Harry Kane,00:42:03.377,42,Pass,England
+62,fa208e71-09e8-4760-8619-907e75cebac2,77.3,91.55,Harry Kane,00:42:07.649,42,Ball Receipt*,England
+63,deb5c368-5d45-456f-91a2-de7e2cc268b0,77.3,91.55,Harry Kane,00:42:07.649,42,Carry,England
+64,e27fc0f5-bc8b-4988-be26-df765c6962ce,89.8,99.91,Harry Kane,00:42:10.238,42,Shot,England
+65,db38f070-e207-446b-8629-1288bfe39b32,85.7,92.28,Harry Kane,00:02:35.756,47,Ball Receipt*,England
+66,427572e0-ff85-439d-bc60-57c3ed2cf25b,85.7,92.28,Harry Kane,00:02:35.756,47,Carry,England
+67,d7cf55d0-70d6-4f35-9f2a-3aa65e7b61cb,77.4,93.79,Harry Kane,00:02:37.206,47,Pass,England
+68,e419b56d-2e83-4925-9b25-74521b12d18e,66.1,87.84,Harry Kane,00:02:39.032,47,Pass,England
+69,f68eeb7f-1a4e-493e-9f30-1a5fc8c30123,112.2,114.60,Harry Kane,00:04:05.724,49,Ball Receipt*,England
+70,4841be31-8498-425e-a620-ca826c5f47c9,112.2,114.60,Harry Kane,00:04:05.766,49,Pass,England
+71,b809de98-dda6-4082-b0f0-12b6860d547f,103.4,39.74,Harry Kane,00:04:31.826,49,Ball Receipt*,England
+72,cbbf46c1-3347-41c7-8eab-efd71d6fec9a,115.9,114.39,Harry Kane,00:04:47.943,49,Ball Receipt*,England
+73,1c44af71-17cb-4b93-b462-8c72cee8a2de,115.9,114.39,Harry Kane,00:04:47.943,49,Carry,England
+74,a2f2b0e1-9ead-402e-9e43-59894eb4c5da,115.5,113.89,Harry Kane,00:04:48.183,49,Pass,England
+75,5ef0e959-c526-441b-8504-fffa005fc400,108.5,116.47,Harry Kane,00:05:26.285,50,Ball Receipt*,England
+76,eb7f5ec7-14a1-48c3-82db-f3f114212d1f,110.0,117.97,Harry Kane,00:05:26.285,50,Pass,England
+77,e6b75c2b-5852-412e-af86-2d18787547d6,83.5,102.47,Harry Kane,00:07:36.937,52,Ball Receipt*,England
+78,863d3064-c69a-4190-a4f3-78af142300e4,83.5,102.47,Harry Kane,00:07:36.937,52,Carry,England
+79,891edd55-09fd-4c20-aa88-ff69be207b93,83.5,100.72,Harry Kane,00:07:38.238,52,Pass,England
+80,79769d79-7eb9-49ff-8bfc-d589796d467c,104.6,35.65,Harry Kane,00:10:28.174,55,Ball Receipt*,England
+81,9f5be51a-e929-4b2f-bf01-4ee8b58dcebf,72.0,80.19,Harry Kane,00:13:33.623,58,Ball Receipt*,Slovenia
+82,61af6ff0-3878-4115-b1f9-29aaa434891d,67.4,77.40,Harry Kane,00:13:36.668,58,Ball Receipt*,England
+83,d6a177e9-4cac-4c40-b7f4-ca3db626f34d,67.4,77.40,Harry Kane,00:13:36.668,58,Carry,England
+84,df56c1d7-681c-45a9-9d7c-3d66c78a422d,90.4,98.31,Harry Kane,00:13:40.985,58,Pass,England
+85,66b2f201-4e1d-44ea-9ee3-b1b2593d6bfd,100.4,108.43,Harry Kane,00:13:53.869,58,Ball Recovery,England
+86,029b14f3-a1bc-4590-bc05-41b3184be7d5,100.4,108.43,Harry Kane,00:13:53.869,58,Carry,England
+87,08dad13f-0dd2-46b2-9cb6-a653a63d86a7,100.5,40.81,Harry Kane,00:13:54.462,58,Dispossessed,England
+88,6a543010-5b00-43fd-97fb-6a1cdd78ca57,75.0,70.45,Harry Kane,00:20:29.307,65,Ball Receipt*,Slovenia
+89,79caaf04-ba65-447f-873d-9da2ec85e376,85.4,88.42,Harry Kane,00:20:38.061,65,Pressure,Slovenia
+90,ea8d6291-c8c4-4405-84d4-ef2528609bcb,100.4,102.71,Harry Kane,00:22:09.733,67,Ball Receipt*,England
+91,cb04c362-ae30-4fad-b3f4-7b7a09891d1e,100.2,102.51,Harry Kane,00:22:09.733,67,Miscontrol,England
+92,1944a395-d5b3-4181-a2b6-e13f09e9edb2,92.0,56.37,Harry Kane,00:26:46.104,71,Ball Receipt*,England
+93,52d0e155-d450-4387-b33d-cc24959c2150,92.0,95.30,Harry Kane,00:26:46.234,71,Block,England
+94,5cd56609-6728-4e30-a49f-583d6584783a,95.3,45.49,Harry Kane,00:26:47.053,71,Foul Won,England
+95,bc0c20b6-5a2a-4f63-b1f9-782158463c1d,107.9,103.51,Harry Kane,00:30:27.978,75,Pressure,Slovenia
+96,b7713a19-dd2a-4787-95e5-9d37341e3744,106.3,100.08,Harry Kane,00:31:13.507,76,Pressure,Slovenia
+97,5d05bbc7-584d-4d40-9790-f485fd3d7328,110.1,24.14,Harry Kane,00:31:32.082,76,Ball Receipt*,England
+98,ee7ab8c7-ed0d-418b-b1e5-2217359d0744,115.8,116.32,Harry Kane,00:32:42.869,77,Ball Receipt*,England
+99,286c963a-a219-491e-a2a5-39ca6ee676e7,115.8,116.32,Harry Kane,00:32:42.869,77,Carry,England
+100,ca72b0a7-9436-4cd9-b442-0e09e7d6ed06,115.8,116.18,Harry Kane,00:32:43.170,77,Pass,England
+101,e4060cb3-977b-45aa-9e4f-11be62201b44,110.0,115.71,Harry Kane,00:33:15.381,78,Ball Receipt*,England
+102,af55f51e-93e4-40ac-b4ea-9ac64b02e639,109.3,115.01,Harry Kane,00:33:15.381,78,Foul Committed,England
+103,0b1800ab-08bc-4a1a-aa84-320630bbeda6,111.5,112.75,Harry Kane,00:37:46.753,82,Ball Receipt*,England
+104,64b64c1c-a026-440d-89d0-a2ef4c5f0ad7,111.5,112.75,Harry Kane,00:37:46.753,82,Carry,England
+105,c8529bc1-5e41-44c8-a2e1-1be342787938,103.4,108.58,Harry Kane,00:37:50.080,82,Pass,England
+106,6b5c102f-d529-4819-af96-09e35c7ddb82,88.6,102.93,Harry Kane,00:37:55.208,82,Ball Receipt*,England
+107,9e84871b-f419-45af-92d6-0188a4dcb776,88.6,102.93,Harry Kane,00:37:55.208,82,Carry,England
+108,c030147d-cdb2-4f2c-a844-6cfaed7f66cb,84.3,101.00,Harry Kane,00:37:56.500,82,Pass,England
+109,637ec4ea-bdd5-44c4-b847-c88bd135c276,92.3,97.81,Harry Kane,00:46:34.580,91,Ball Receipt*,England
+110,e3eed2d9-e1fd-4ebe-8589-339e91b271ee,92.3,97.81,Harry Kane,00:46:34.580,91,Carry,England
+111,c72cd6b0-5bc1-4298-a641-1e44eb60efff,95.3,102.12,Harry Kane,00:46:35.218,91,Pass,England
